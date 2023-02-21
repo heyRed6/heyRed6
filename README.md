@@ -1,8 +1,7 @@
 <p align="center">
-<ing width="140"src="https:/user-iages,githubusercontent,com/1805948/208960699-09fd9806-bf5b-4ffa-9259-7f71cb72eac7.png"/>
-<h2 align="center">小帅b AKAwistbean</h2>
-<p align="center">:kissing_heart:帅b老仙，法力无边:kissing_heart:</p>
-</p>
+<ing width="140"src="https://avatars.githubusercontent.com/u/54489219?v=4"/>
+<h2 align="center">酸菜鱼的奇妙历险</h2>
+<p align="center">:neckbeard:保持良好的学习心跳:neckbeard:</p>
 
 <p align="center">
 <a href="https://fxxkpython.com">
